@@ -19,10 +19,12 @@ This project analyzes the **CORD-19 research dataset (metadata.csv)** and presen
 git clone https://github.com/<your-username>/Frameworks_Assignment.git
 cd Frameworks_Assignment
 pip install -r requirements.txt
+```
 ▶️ Run Streamlit App
-bash
+```bash
 Copy code
 streamlit run app.py
+```
 📈 Insights
 Research output spiked in 2020 due to COVID-19
 
@@ -39,8 +41,6 @@ Visualization with Matplotlib/Seaborn
 
 Building interactive apps with Streamlit
 
-yaml
-Copy code
 
 ---
 
